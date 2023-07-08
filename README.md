@@ -34,7 +34,8 @@ figure2: ```Ctrl + F``` helps to find specific keyword on a webpage
 
 Figure3: Four QA sites to ask question. Source: https://youtu.be/gyMwXuJrbJQ
 
-![e4](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/fd076c87-7930-4027-9e5a-b2b21060d3be)
+![e4](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/9b41c06d-3ef6-4831-b024-9e867926b876)
+
 Figure4: Before asking question. here search means at first do web search to save yours and others time <br>
 Source:https://youtu.be/gyMwXuJrbJQ
 
