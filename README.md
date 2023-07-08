@@ -13,7 +13,7 @@ Another step is shown in the picture below:
 Figure1: going to this link https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions
 and ask for any problamatic question
 
-Also we can ask question at Stack Overflow and Stack Exchange Ethereum
+Also we can ask question at Stack Overflow and Ethereum Stack Exchange
 
 
 
