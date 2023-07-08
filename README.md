@@ -30,6 +30,7 @@ figure2: ```Ctrl + F``` helps to find specific keyword on a webpage
 
 
 ![e2](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/42f292a9-4a52-4bba-81fa-71dfda9901a3)
+Figure3: Four QA sites to ask question
 
 
 
