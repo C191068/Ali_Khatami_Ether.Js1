@@ -21,9 +21,9 @@ and all the solidity code that we gonna be working with<br>
 
 ### How to debug anything
 
-at first do tinker and experiment
-second check the documentation
-Third is web search
+![e5](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/3985ced3-d905-48b6-b438-0522c8f1eb3c)
+Figure1: steps to do when facing a coding problem. Source: https://youtu.be/gyMwXuJrbJQ 
+
 
 ![e3](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/8396e79d-cd86-4e15-9774-9cef8346f4e5)
 figure2: ```Ctrl + F``` helps to find specific keyword on a webpage 
