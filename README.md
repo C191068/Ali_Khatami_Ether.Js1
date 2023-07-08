@@ -38,7 +38,8 @@ Figure3: Four QA sites to ask question. Source: https://youtu.be/gyMwXuJrbJQ
 Figure4: Before asking question. here search means at first do web search to save yours and others time <br>
 Source:https://youtu.be/gyMwXuJrbJQ
 
+Add a minimalistic code means not to copy paste the entire code if problem with one line just give that line 
 
-
+Reproducible code means writing code in a way that allows anyone, including yourself in the future, to easily run the code and obtain the same results
 
 
