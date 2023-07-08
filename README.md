@@ -18,6 +18,10 @@ Also we can ask question at Stack Overflow and Ethereum Stack Exchange<br>
 Stack overflow is for general programming question and Ethereum Stack Excahnge is for ethereum based question <br>
 and all the solidity code that we gonna be working with<br>
 
+### How to debug anything
+
+
+
 
 
 
