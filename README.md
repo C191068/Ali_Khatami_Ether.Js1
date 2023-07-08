@@ -1,3 +1,4 @@
+
 # Ali Khatami Ethers.Js(learning from the video of Pattrick Collins)
 It is important to understand little bit about getting help and running into a problem
 When face an error first step is Tinker.
@@ -20,6 +21,15 @@ and all the solidity code that we gonna be working with<br>
 
 ### How to debug anything
 
+at first do tinker and experiment
+second check the documentation
+
+![e3](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/8396e79d-cd86-4e15-9774-9cef8346f4e5)
+figure2: ```Ctrl + F``` helps to find specific keyword on a webpage 
+
+
+
+![e2](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/42f292a9-4a52-4bba-81fa-71dfda9901a3)
 
 
 
