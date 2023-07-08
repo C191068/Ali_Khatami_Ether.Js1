@@ -23,6 +23,7 @@ and all the solidity code that we gonna be working with<br>
 
 at first do tinker and experiment
 second check the documentation
+Third is web search
 
 ![e3](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/8396e79d-cd86-4e15-9774-9cef8346f4e5)
 figure2: ```Ctrl + F``` helps to find specific keyword on a webpage 
