@@ -55,5 +55,9 @@ Figure6: Limitation of remix. Source: https://youtu.be/gyMwXuJrbJQ
 
 Wihtout Internet connection we can't work with Remix.
 
+```Hardhat``` is a professional smart contract developer setup <br>
+
+
+
 
 
