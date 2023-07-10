@@ -129,6 +129,11 @@ Figure20
 Figure21
 
 
+
+
+
+
+
 WSL(Windows Subsystem for linux) allows Linux programmes to run natively on our windows environments <br>
 
 
