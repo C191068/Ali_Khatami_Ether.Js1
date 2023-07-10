@@ -58,6 +58,8 @@ Wihtout Internet connection we can't work with Remix.
 ```Hardhat``` is a professional smart contract developer setup. it is also known as smart contract developer framework <br>
 just like Brownie, Foundry <br>
 
+```Hardhat``` is ```Javascript``` based <br>
+
 
 
 
