@@ -163,6 +163,10 @@ then click on ```WSL:Connect to WSL in new window```
 ![e29](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/9d66a4be-b4ea-41cd-943c-3db411efac54)
 Figure27: Then the above window will appear <br>
 
+![e31](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/c7f06b7e-5b4a-4b76-9873-0628ef0decf4)
+Figure28: we wil type the following command <br>
+
+
 
 
 
