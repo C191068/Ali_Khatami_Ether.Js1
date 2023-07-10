@@ -166,6 +166,8 @@ Figure27: Then the above window will appear <br>
 ![e31](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/c7f06b7e-5b4a-4b76-9873-0628ef0decf4)
 Figure28: we wil type the following command <br>
 
+![e32](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/49d28ced-d807-41c3-8968-caee5ace3e86)
+Figure29: then the following window will open
 
 
 
