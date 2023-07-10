@@ -158,6 +158,14 @@ from that of Windows<br>
 
 ![e27](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/22615787-58c8-4456-bebc-4ca8ead86b83)
 Figure26: To convert the windows powershell terminal to WSL we type ```Ctrl+Shift+P``` and type ```wsl```
+then click on ```WSL:Connect to WSL in new window```
+
+![e29](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/9d66a4be-b4ea-41cd-943c-3db411efac54)
+Figure27: Then the above window will appear <br>
+
+
+
+
 
 
 
