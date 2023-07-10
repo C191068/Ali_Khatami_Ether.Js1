@@ -137,6 +137,16 @@ Figure21 <br>
 WSL(Windows Subsystem for linux) allows Linux programmes to run natively on our windows environments <br>
 
 
+![e21](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/dbbb9c94-d4dd-42d4-ad77-bd6ea9b2a175)
+
+Figure22: On VS code terminal section of powershell by typing node --version we see that node.js successfully installed<br>
+
+![e22](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/41cae871-5644-4a75-bc65-86cedbdbba27)
+
+Figure23: By typing ```wsl --install``` we have successfully install Virtual machine platform, Winows subsystem for linux<br>
+and Ubuntu<br>
+
+
 
 
 
