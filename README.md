@@ -169,6 +169,8 @@ Figure28: we wil type the following command <br>
 ![e32](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/49d28ced-d807-41c3-8968-caee5ace3e86)
 Figure29: then the following window will open
 
+![e33](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/990578e6-bfb5-4bc0-bcbf-ad33ce4e497f)
+Figure30: Created a new file akrk.txt
 
 
 
