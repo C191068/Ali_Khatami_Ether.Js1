@@ -80,6 +80,11 @@ Figure8: going to google we have to search and go this link <br>
 
 Node.js is going to help to run our Javascript code for our development environment <br>
 
+![e10](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/3fcce703-72d1-4b05-aa68-97f8c9eb80a4)
+
+figure9: here will click the LTS or long term support edition of Node.js <br>
+
+
 
 
 
