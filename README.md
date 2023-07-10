@@ -87,13 +87,46 @@ figure9: here will click the LTS or long term support edition of Node.js <br>
 ![e11](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/934227ea-84e1-41ac-9573-c05db15766af)
 
 Figure10: Then we click the folder we want to save <br>
+![e12](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/acb072aa-d4d4-4ccc-bc9f-906d93a0e113)
+
+figure11
+
+![e13](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/5a2a3b4f-e713-4ec2-83a8-25f02857c918)
+
+Figure12
+
+![e14](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/5bf8f8a7-7fb3-40f0-9539-45c33b944c59)
+
+Figure13
+
+![e15](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/c5628af4-7bcf-4cc4-beab-b458b2dc0566)
+
+Figure14
+
+
+![e16](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/59b9b10a-47ec-4df5-a768-fd0c2207b19b)
+
+Figure15
 
 ![e17](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/959310aa-3f95-44a3-9600-3a6ba2e2214a)
 
-Figure: We have to make sure that it is clicked just in cases we want to use different tools with our setup<br>
+Figure16: We have to make sure that it is clicked just in cases we want to use different tools with our setup<br>
 
+![e18](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/795b95e7-5110-45ef-82e2-6d82da4d3453)
 
+Figure17:
 
+![e19](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/30b8472d-b319-4542-89fd-d479af4c39f3)
+
+Figure18
+
+![e20](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/52448cfc-d761-4354-b057-fe6c58c161a2)
+
+Figure20
+
+![e21](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/ffb39750-e19f-4bd7-aed9-2cb7384d2aa3)
+
+Figure21
 
 
 
