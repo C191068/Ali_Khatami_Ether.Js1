@@ -43,4 +43,7 @@ Add a minimalistic code means not to copy paste the entire code if problem with 
 
 Reproducible code means writing code in a way that allows anyone, including yourself in the future, to easily run the code and obtain the same results
 
+![e6](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/398f0d64-01d6-438e-a67d-cf8e11817641)
+
+Figure5: benefits, Source: https://youtu.be/gyMwXuJrbJQ
 
