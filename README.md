@@ -47,3 +47,6 @@ Reproducible code means writing code in a way that allows anyone, including your
 
 Figure5: benefits, Source: https://youtu.be/gyMwXuJrbJQ
 
+
+### Installation and setup (Moving to local development)
+
