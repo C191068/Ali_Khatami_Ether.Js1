@@ -66,6 +66,9 @@ Figure7: Features of Hardhat <br>
 
 ```Ether.Js``` is a javascript based library for working with smart contracts <br>
 
+There is a lot of ether.js under ```Hardhat``` <br>
+
+
 
 
 
