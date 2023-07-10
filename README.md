@@ -62,7 +62,12 @@ just like Brownie, Foundry <br>
 
 ![e8](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/d9989b7f-32ff-4886-9409-4097661c8be9)
 
-Figure7: Features 0of Hardhat <br>
+Figure7: Features of Hardhat <br>
+
+```Ether.Js``` is a javascript based library for working with smart contracts <br>
+
+
+
 
 
 
