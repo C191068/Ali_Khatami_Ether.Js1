@@ -53,5 +53,7 @@ Figure5: benefits, Source: https://youtu.be/gyMwXuJrbJQ
 ![e7](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/ac44faf2-e405-45e6-97ec-321e657beb1b)
 Figure6: Limitation of remix. Source: https://youtu.be/gyMwXuJrbJQ
 
+Wihtout Internet connection we can't work with Remix.
+
 
 
