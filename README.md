@@ -147,6 +147,16 @@ Figure23: By typing ```wsl --install``` we have successfully install Virtual mac
 and Ubuntu<br>
 
 
+![e24](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/9f0e121d-dad4-4fa2-80b5-a24d94c471e4)
+
+Figure24: Then we will click here at the ```ubuntu```
+
+![e23](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/8382d4ff-8a36-4241-9d6b-b93d5feed6fa)
+
+Figure25: we will do the above i.e create new username and password for ubuntu which will be different <br>
+from that of Windows<br>
+
+
 
 
 
