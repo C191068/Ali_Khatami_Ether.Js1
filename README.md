@@ -88,6 +88,10 @@ figure9: here will click the LTS or long term support edition of Node.js <br>
 
 Figure10: Then we click the folder we want to save <br>
 
+![e17](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/959310aa-3f95-44a3-9600-3a6ba2e2214a)
+
+Figure: We have to make sure that it is clicked just in cases we want to use different tools with our setup<br>
+
 
 
 
