@@ -177,6 +177,8 @@ Figure30: Created a new file akrk.txt
 
 ### Working with Gitpod
 
+```Gitpod``` is a cloud development environment where we can actually run our code on remote server <br>
+
 
 
 
