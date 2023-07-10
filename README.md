@@ -186,7 +186,10 @@ are running on this server <br>
 
 It has also some limitations because we can only use gitpod if gitpod is working for us <br>
 
-We will not run any code with a private key that has real money <br>
+We will not run any code with a private key that has real money on a gitpod <br>
+
+
+
 
 
 
