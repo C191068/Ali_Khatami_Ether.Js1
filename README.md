@@ -188,6 +188,10 @@ It has also some limitations because we can only use gitpod if gitpod is working
 
 We will not run any code with a private key that has real money on a gitpod <br>
 
+Since we are running our scripts on remote servers , those servers have access to our private keys <br>
+
+
+
 
 
 
