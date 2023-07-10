@@ -77,6 +77,8 @@ then we yhave to install Node.js in the following way:
 ![e9](:https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/ac80047f-4ba5-4b89-bd58-423ee7b1a191)
 Figure8: going to google we have to search and go this link <br>
 
+Node.js is going to help to run our Javascript code for our development environment <br>
+
 
 
 
