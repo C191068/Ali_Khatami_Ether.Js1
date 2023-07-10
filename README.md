@@ -68,6 +68,10 @@ Figure7: Features of Hardhat <br>
 
 There is a lot of ether.js under ```Hardhat``` <br>
 
+It is important for us to learn ether.js to understand what actually ```hardhat``` is doing <br>
+
+
+
 
 
 
