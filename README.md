@@ -179,6 +179,19 @@ Figure30: Created a new file akrk.txt
 
 ```Gitpod``` is a cloud development environment where we can actually run our code on remote server <br>
 
+It is similiar to remix IDE but allows us to run VS code in browser or connected to another server <br>
+
+It is perfect because we don't have to do any installation or anything because all the tools we gonna use<br>
+are running on this server <br>
+
+It has also some limitations because we can only use gitpod if gitpod is working for us <br>
+
+
+
+
+
+
+
 
 
 
