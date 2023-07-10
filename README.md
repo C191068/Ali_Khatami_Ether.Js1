@@ -126,10 +126,10 @@ Figure20
 
 ![e21](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/ffb39750-e19f-4bd7-aed9-2cb7384d2aa3)
 
-Figure21
+Figure21 <br>
 
 
-
+<br><br>
 
 
 
