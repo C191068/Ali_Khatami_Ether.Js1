@@ -156,6 +156,8 @@ Figure24: Then we will click here at the ```ubuntu```
 Figure25: we will do the above i.e create new username and password for ubuntu which will be different <br>
 from that of Windows<br>
 
+![e27](https://github.com/C191068/Ali_Khatami_Ether.Js1/assets/89090776/22615787-58c8-4456-bebc-4ca8ead86b83)
+Figure26: To convert the windows powershell terminal to WSL we type ```Ctrl+Shift+P``` and type ```wsl```
 
 
 
